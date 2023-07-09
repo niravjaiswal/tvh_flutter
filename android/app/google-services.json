@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201688760625",
+    "project_id": "mindmemos-87cef",
+    "storage_bucket": "mindmemos-87cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201688760625:android:6ee55d7b10cd84291f3010",
+        "android_client_info": {
+          "package_name": "com.example.tvh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201688760625-nsi22hqt11f5urt6o6r3t0fon7lni7q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4Yg7juQ7IZvIU7bcRR2a3ez8rSYXYVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201688760625-nsi22hqt11f5urt6o6r3t0fon7lni7q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
